@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hi there, I'm Mariya! 👋</h1>
+<p>Insert motivational quote here 😐</p>
+<h2>About me 👀</h2>
+<ul>
+  <li>🥱 16 years old</li>
+  <li>🥗 Bulgarian</li>
+  <li>🎓 student in @codingburgas</li>
+  <li>🎨 Designer wannabe</li>
+  <li>📧 How to reach me: MZIlcheva19@codingburgas.bg</li>
+</ul>
 
-<!--
-**MZIlcheva19/MZIlcheva19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Languages and tools</h2>
+  <img align="left" alt="C++" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
+  <img align="left" alt="HTML5" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+  <img align="left" alt="CSS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+  <img align="left" alt="JavaScript" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+  <img align="left" alt="Git" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="left" alt="Adobe Illustrator" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg">
