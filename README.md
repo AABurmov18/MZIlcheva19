@@ -1,6 +1,5 @@
-<h1>Hi there, I'm Mariya! 👋</h1>
-<p>Insert motivational quote here 😐</p>
-<h2>About me 👀</h2>
+<h3>Hi there, I'm Mariya! 👋</h3>
+<h4>About me 👀</h4>
 <ul>
   <li>🥱 16 years old</li>
   <li>🥗 Bulgarian</li>
