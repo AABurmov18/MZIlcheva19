@@ -1,4 +1,4 @@
-<img align="right" alt="cat-gif" height="300px" src="https://i.pinimg.com/originals/1c/23/e6/1c23e68dd014ad02e382165420df9246.gif">
+<img align="right" alt="cat-gif" height="350px" src="https://i.pinimg.com/originals/1c/23/e6/1c23e68dd014ad02e382165420df9246.gif">
 <h3>Hi there, I'm Mariya! 👋</h3>
 <h4>About me 👀</h4>
 <ul>
